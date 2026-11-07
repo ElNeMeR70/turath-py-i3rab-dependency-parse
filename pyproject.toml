@@ -1,0 +1,7 @@
+[project]
+name = "turath-py-i3rab-dependency-parse"
+version = "1.0.0"
+description = "Classical Arabic Syntactic I'rab Case-Ending & Dependency Parser (محلل الإعراب النحوي والعوامل والمعمولات)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
